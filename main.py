@@ -1,8 +1,7 @@
 import Tests as Ts
 import argparse
 
-#Called by Main function
-#It instantiate the class of Test.py
+#It instantiates the class of Test.py
 #which is having test cases
 
 def main():
